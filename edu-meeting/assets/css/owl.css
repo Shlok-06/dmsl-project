@@ -69,7 +69,7 @@
     border: none;
     padding: 0 !important;
     font: inherit;
-    bottom: 120px; }
+    bottom: -20px; }
   .owl-carousel.owl-loaded {
     display: block; }
   .owl-carousel.owl-loading {
